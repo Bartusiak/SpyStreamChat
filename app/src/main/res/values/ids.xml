@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <item name="activity_main" type="id" />
+    <item name="activity_sign_up" type="id" />
+    <item name="activity_forgot_password" type="id" />
+    <item name="activity_dash_board" type="id" />
+    <item name="activity_chat" type="id" />
+    <item name="add_token_twitch_btn" type="id" />
+</resources>

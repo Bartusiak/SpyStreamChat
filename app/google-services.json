@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "782890825826",
+    "firebase_url": "https://spystreamgui.firebaseio.com",
+    "project_id": "spystreamgui",
+    "storage_bucket": "spystreamgui.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:782890825826:android:2b4eb650ba058043",
+        "android_client_info": {
+          "package_name": "com.example.bsk69.spystreamgui"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "782890825826-ct4ms36kjoj6bh3s24s98mnofecpslun.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAcxvKaclO1Do1KiekptdKpRxd553bcUks"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

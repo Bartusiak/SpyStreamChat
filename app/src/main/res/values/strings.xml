@@ -1,0 +1,39 @@
+<resources>
+    <string name="app_name">SpyStream</string>
+    <!-- Strings related to login -->
+    <string name="login">Login</string>
+    <string name="prompt_email">Email</string>
+    <string name="prompt_password">Hasło</string>
+    <string name="action_sign_in">Zaloguj się</string>
+    <string name="action_register">Zarejestruj się</string>
+    <string name="error_invalid_email">Mail jest niepoprawny</string>
+    <string name="error_invalid_password">Zbyt krótkie hasło</string>
+    <string name="error_incorrect_password">Niepoprawne hasło</string>
+    <string name="error_field_required">Ta część jest wymagana</string>
+    <string name="permission_rationale">"Potrzebujesz uprawnień do wysłania wiadomości email"
+    </string>
+    <string name="inlive">Na żywo:</string>
+    <string name="views">Wyświetlenia:</string>
+    <string name="follows">Ulubionych:</string>
+    <string name="twitch">Twitch</string>
+    <string name="logout">Wyloguj</string>
+    <string name="settings">Ustawienia</string>
+    <string name="add_key">Dodaj token</string>
+    <string name="viewReminder">Tutaj wpisz swój adres email przy przypomnieć hasło</string>
+    <string name="remindBtn">Przypomnij</string>
+    <string name="emailCheck">adres@google.com</string>
+    <string name="register">Zarejestruj</string>
+    <string name="action_forgot_pass">Przypomnij hasło</string>
+    <string name="pass">Hasło</string>
+    <string name="email_to_recover_pass">Podaj swój adres email by przypomnieć hasło</string>
+    <string name="remember">Przypomnij</string>
+    <string name="title_activity_main2">Main2Activity</string>
+    <string name="addtoken">Dodaj token YOUTUBE</string>
+    <string name="token_yt_text_view">Podaj swój token do konta na youtube</string>
+    <string name="insert_token">Token:</string>
+    <string name="add_token_button">Zatwierdź token</string>
+    <string name="addtokentwitch">Dodaj token twitch</string>
+    <string name="token_twitch_text_view">Podaj swój token do konta twitch</string>
+    <string name="back">Cofnij</string>
+    <string name="chat">Czatuj</string>
+</resources>
